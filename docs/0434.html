@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>The Wormhole Hack: How Soteria detects the vulnerability automatically</title>
+<link href="../Styles/Style.css" type="text/css" rel="stylesheet"/>
+</head>
+<body>
+<h1 class="translated">虫洞黑客:索特里亚如何自动检测漏洞</h1>
+<blockquote>原文：<a href="https://medium.com/coinmonks/the-wormhole-hack-how-soteria-detects-the-vulnerability-automatically-eb0f433e8071?source=collection_archive---------3-----------------------#2022-02-03">https://medium.com/coinmonks/the-wormhole-hack-how-soteria-detects-the-vulnerability-automatically-eb0f433e8071?source=collection_archive---------3-----------------------#2022-02-03</a></blockquote><div><div class="ef hl hm hn ho hp"/><div class="hq hr hs ht hu"><div class=""/><p id="d038" class="pw-post-body-paragraph iu iv hx iw b ix iy iz ja jb jc jd je jf jg jh ji jj jk jl jm jn jo jp jq jr hq dt translated">最近，一名攻击者能够从<a class="ae js" href="https://github.com/certusone/wormhole" rel="noopener ugc nofollow" target="_blank">虫洞</a><strong class="iw hy"/>一座连接索拉纳和以太坊的流行<strong class="iw hy"> </strong>桥中窃取超过3.2亿美元。</p><p id="df3a" class="pw-post-body-paragraph iu iv hx iw b ix iy iz ja jb jc jd je jf jg jh ji jj jk jl jm jn jo jp jq jr hq dt translated">根本原因在于虫洞桥代码<code class="eh jt ju jv jw b">verify_signatures</code>中的一个bug:</p><p id="d880" class="pw-post-body-paragraph iu iv hx iw b ix iy iz ja jb jc jd je jf jg jh ji jj jk jl jm jn jo jp jq jr hq dt translated">(1) <em class="jx">它</em> <strong class="iw hy"> <em class="jx">没有验证一个输入账户</em> </strong> <em class="jx">和</em></p><p id="3f49" class="pw-post-body-paragraph iu iv hx iw b ix iy iz ja jb jc jd je jf jg jh ji jj jk jl jm jn jo jp jq jr hq dt translated"><em class="jx"> (2)使用了</em> <strong class="iw hy"> <em class="jx">一个不安全且已弃用的Solana API </em> </strong>解析账户。</p><blockquote class="jy jz ka"><p id="e255" class="iu iv jx iw b ix iy iz ja jb jc jd je kb jg jh ji kc jk jl jm kd jo jp jq jr hq dt translated">如果虫洞避开了上面的(1)或(2)，攻击就会被避免。</p></blockquote></div></div>    
+</body>
+</html>

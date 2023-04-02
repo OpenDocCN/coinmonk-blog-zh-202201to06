@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>Solana internals Part 4: the bank — a key component</title>
+<link href="../Styles/Style.css" type="text/css" rel="stylesheet"/>
+</head>
+<body>
+<h1 class="translated">索拉纳内部第4部分:银行——一个关键的组成部分</h1>
+<blockquote>原文：<a href="https://medium.com/coinmonks/solana-internals-part-4-the-bank-a-key-component-1d47b94cd705?source=collection_archive---------3-----------------------#2022-01-29">https://medium.com/coinmonks/solana-internals-part-4-the-bank-a-key-component-1d47b94cd705?source=collection_archive---------3-----------------------#2022-01-29</a></blockquote><div><div class="ef hl hm hn ho hp"/><div class="hq hr hs ht hu"><div class=""/><p id="9f08" class="pw-post-body-paragraph iu iv hx iw b ix iy iz ja jb jc jd je jf jg jh ji jj jk jl jm jn jo jp jq jr hq dt translated">继<a class="ae js" href="https://blog.soteria.dev/solana-internals-part-3-the-transaction-processing-unit-tpu-79887af07a04" rel="noopener ugc nofollow" target="_blank">第3部分:TPU </a>之后，本文将详细介绍<code class="eh jt ju jv jw b"><strong class="iw hy">bank</strong></code>模块，它是索拉纳区块链的核心组件。</p><h1 id="c61d" class="jx jy hx bd jz ka kb kc kd ke kf kg kh ki kj kk kl km kn ko kp kq kr ks kt ku dt translated">什么是银行？</h1><p id="079a" class="pw-post-body-paragraph iu iv hx iw b ix kv iz ja jb kw jd je jf kx jh ji jj ky jl jm jn kz jp jq jr hq dt translated"><code class="eh jt ju jv jw b">bank </code>模块的重要性不言而喻:</p><blockquote class="la lb lc"><p id="8184" class="iu iv ld iw b ix iy iz ja jb jc jd je le jg jh ji lf jk jl jm lg jo jp jq jr hq dt translated">它管理所有帐户和程序的状态，执行链上程序，并跟踪它们的进度。</p></blockquote><p id="b96c" class="pw-post-body-paragraph iu iv hx iw b ix iy iz ja jb jc jd je jf jg jh ji jj jk jl jm jn jo jp jq jr hq dt translated">在高层次上，一个<code class="eh jt ju jv jw b">bank</code>与单个领导者产生的块相关，并且每个<code class="eh jt ju jv jw b">bank</code>(除了genesis bank)指回一个父<code class="eh jt ju jv jw b">bank</code>。</p></div></div>    
+</body>
+</html>
