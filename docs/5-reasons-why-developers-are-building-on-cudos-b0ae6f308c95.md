@@ -1,0 +1,14 @@
+# 开发人员构建 Cudos 的 5 个原因
+
+> 原文：<https://medium.com/coinmonks/5-reasons-why-developers-are-building-on-cudos-b0ae6f308c95?source=collection_archive---------17----------------------->
+
+## **区块链遇到云，这是一个强大的组合**
+
+# **设定开发者场景**
+
+Web3 开发人员正处于历史最高水平，并且比以往任何时候都更快。
+
+我们引用电力资本的这些[统计数据](/electric-capital/electric-capital-developer-report-2021-f37874efea6d#id_token=eyJhbGciOiJSUzI1NiIsImtpZCI6ImQzMzJhYjU0NWNjMTg5ZGYxMzNlZmRkYjNhNmM0MDJlYmY0ODlhYzIiLCJ0eXAiOiJKV1QifQ.eyJpc3MiOiJodHRwczovL2FjY291bnRzLmdvb2dsZS5jb20iLCJuYmYiOjE2NTA0NTA1ODksImF1ZCI6IjIxNjI5NjAzNTgzNC1rMWs2cWUwNjBzMnRwMmEyamFtNGxqZGNtczAwc3R0Zy5hcHBzLmdvb2dsZXVzZXJjb250ZW50LmNvbSIsInN1YiI6IjExNzYzOTAzODY5NjgxOTM4OTM5NiIsImVtYWlsIjoiYWxleGZ0Ym95ZEBnbWFpbC5jb20iLCJlbWFpbF92ZXJpZmllZCI6dHJ1ZSwiYXpwIjoiMjE2Mjk2MDM1ODM0LWsxazZxZTA2MHMydHAyYTJqYW00bGpkY21zMDBzdHRnLmFwcHMuZ29vZ2xldXNlcmNvbnRlbnQuY29tIiwibmFtZSI6IkJveWR5R3VucyIsInBpY3R1cmUiOiJodHRwczovL2xoMy5nb29nbGV1c2VyY29udGVudC5jb20vYS0vQU9oMTRHam5Hbm5UREtZVzhTaDFDQXpvZ2RSZlpCRWx4Q2w0UVZ6eEstSjhCUT1zOTYtYyIsImdpdmVuX25hbWUiOiJCb3lkeUd1bnMiLCJpYXQiOjE2NTA0NTA4ODksImV4cCI6MTY1MDQ1NDQ4OSwianRpIjoiNDFkZDE2ZjIxYTIyMTE2YzYzZWY1ODJjZmZhZGI5ZjRkZDZkMzk3MyJ9.mg-UjpXcvJ3zYkBv6YiMftspxP5xLRrXe2x-s20hT_td2FH_108URACiRgWVOsEJ9k5b7VdQ33qx3A3W5Hv7b6pB8uVFU_lhfzGThfZ5fscdBy_4urIFzY8Dt-5cvZ2X9CiB0vnjgbcBWNgRum5tPUJ8JcVktblDdMKWBeNJ6IymTnXo1Z-vxCkGJQxi_EmQBoq2u0tibNo7gUZuvzBu70GmaK3JW-tKnY5uiLIe3VKGa08Z0cNumXg2DFyiKnT9PYxTco4FwfGuhFJNyxACBs4cI-JN7Fe3X04Zr6Yz09TZB8ERIKFUsm1Fp3DSL3mMq_1R1yds5gAU8jwopZ8c5Q)，只是为了正确看待这一天文数字的增长:
+
+*   **每月 18，000+** 活跃开发人员在开源加密和 Web3 项目中提交代码
+*   **2021 年 Web3 活跃开发者中 65%** 加入；的 45%
